@@ -8,7 +8,4 @@ This project is a command-line application that runs NODE.js.  This quickly gene
 
 You are taken to the corresponding sections of the README when you click on a link from under the Table of Contents.
 
-The license is added to the top of the README along with a badge, which explains which license the application is covered under. 
-
-
-
+The license is added to the top of the README along with a badge, this explains which license the application is covered under.
