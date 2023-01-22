@@ -1,6 +1,6 @@
-# fileName
+# Sample.md
   ## Badges
-  ![License: ISC](https://img.shields.io/badge/License-ISC-yellow.svg),[MIT](https://img.shields.io/badge/ISC-License-green)
+  ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg),[MIT](https://img.shields.io/badge/MIT-License-green)
   ## Table of Contents
   
   * [License](#license)
@@ -13,11 +13,11 @@
   ## License
  
   ## Description
-  Our expanding universe
+  Test
   ## Installation
   undefined
   ## Usage
-  To increase our knowledge of our cosmos
+  N/A
   ## Contributing
   [Contributor Covenant](https://www.contributor-covenant.org/)  
   undefined

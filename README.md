@@ -9,3 +9,10 @@ This project is a command-line application that runs NODE.js.  This quickly gene
 You are taken to the corresponding sections of the README when you click on a link from under the Table of Contents.
 
 The license is added to the top of the README along with a badge, this explains which license the application is covered under.
+When you click on the links in the Table of Contents you are taken to the corresponding section of README.  You can also reach me with additional questions by clicking on the Questions sections, which will have intructions on how to contact me.
+
+The README.md can be cloned via my Github username and installing it on your local machine.  You will need to ensure you have installed "inquirer" to install the node.js files to run the application.
+
+Video link
+
+The video below is a demostration of the application.
