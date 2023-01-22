@@ -1,4 +1,4 @@
-# Sample.md
+# SAMPLE.md
   ## Badges
   ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg),[MIT](https://img.shields.io/badge/MIT-License-green)
   ## Table of Contents
@@ -13,11 +13,11 @@
   ## License
  
   ## Description
-  Test
+  The planet earth
   ## Installation
   undefined
   ## Usage
-  N/A
+  To learn everything about our planet
   ## Contributing
   [Contributor Covenant](https://www.contributor-covenant.org/)  
   undefined
@@ -26,4 +26,4 @@
   ## Questions?
   ### Reach me here: 
   [undefined](https://github.com/undefined)  
-  example@email.com
+  SXA1694@student.bham.ac.uk
