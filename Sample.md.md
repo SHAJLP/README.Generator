@@ -1,4 +1,4 @@
-# SAMPLE.md
+# Sample.md
   ## Badges
   ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg),[MIT](https://img.shields.io/badge/MIT-License-green)
   ## Table of Contents
@@ -13,11 +13,11 @@
   ## License
  
   ## Description
-  The planet earth
+  The struggles of jogging
   ## Installation
   undefined
   ## Usage
-  To learn everything about our planet
+  N/A
   ## Contributing
   [Contributor Covenant](https://www.contributor-covenant.org/)  
   undefined
@@ -26,4 +26,4 @@
   ## Questions?
   ### Reach me here: 
   [undefined](https://github.com/undefined)  
-  SXA1694@student.bham.ac.uk
+  SAX1694@studednt.bham.ac.uk

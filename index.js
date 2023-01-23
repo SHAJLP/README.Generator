@@ -85,4 +85,3 @@ function writeToFile(fileName, data) {
   
   // Function call to initialize app
   init();
-
